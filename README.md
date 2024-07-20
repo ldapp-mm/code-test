@@ -34,7 +34,6 @@ Statement : This is a very long sentence and I want to educate everyone in this 
 * `sentence` is not null/empty and assumption that the `sentence` only contains maximum 50,000 words.
 * If `sentence` has only 1 word, then assume that the word is not longer than 50.
 * `input character` is not empty and assume that it is only alphabetic.
-* 
 
 ## Problem 2:
 
